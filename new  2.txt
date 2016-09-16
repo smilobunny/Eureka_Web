@@ -1,0 +1,37 @@
+<html>
+<head>
+<title> Form1</title>
+<link type="text/css" rel="stylesheet" href="css/exform1.css">
+<style>
+.error {color: #FF0000;}
+</style>
+</head>
+<body  style="padding:0px; margin:0px; background-color:#ffffcc;">
+<?php include("eurmenu.php"); ?> 
+
+					<img src="images/rampwalk.png" style="margin-top:50px; border-top:50px solid #9999ff; border-bottom:50px solid #9999ff; width:1350px;">
+				
+					<div class="heading1">
+					About The Event </div>
+					<div class="para1">
+					Relieve the excitement of the most awaited event of EUREKA "CLOUD COMPUTING WORKSHOP".The Cloud Computing Workshop will make participants adept at various cloud computing architectures. Live projects will help participants keep up with all technologies, tools and methodologies required to understand and work on cloud computing principles used in the IT industry.
+					<br> <div style="color:white ;font-style:bold;font-size:34;">Come in and Let yourself Grow into this technical cosmos . Register now!</div>
+					</div>
+					<div style="background-color:white;">
+					<div class="cord">
+					Event Coordinators 
+					</div>
+					<div class="para2">
+					Ishan Mehra   ( 9872500199 )<br>
+					Vasu Gupta    ( 8526670896 )
+					
+					</div>
+					<div class="container1" style="background-image:url(images//stone1.jpg);">
+					<div class="container2" > </div>
+					</div>
+					</div>
+					
+</body>
+</html>
+
+
